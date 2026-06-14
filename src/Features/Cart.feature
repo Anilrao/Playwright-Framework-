@@ -1,3 +1,4 @@
+@AddtoCart
 Feature: Add to Cart functionality
 
 Scenario: User can items  to cart successfully
